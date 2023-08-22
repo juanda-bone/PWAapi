@@ -1,84 +1,104 @@
-
-{"products":
-[{
-  "id": 1,
-  "name": "Swallow-tail gull",
-  "category": "Turquoise"
-}, {
-  "id": 2,
-  "name": "Praying mantis (unidentified)",
-  "category": "Orange"
-}, {
-  "id": 3,
-  "name": "Northern phalarope",
-  "category": "Puce"
-}, {
-  "id": 4,
-  "name": "Small-toothed palm civet",
-  "category": "Red"
-}, {
-  "id": 5,
-  "name": "Crested bunting",
-  "category": "Indigo"
-}, {
-  "id": 6,
-  "name": "Gray langur",
-  "category": "Violet"
-}, {
-  "id": 7,
-  "name": "Short-beaked echidna",
-  "category": "Crimson"
-}, {
-  "id": 8,
-  "name": "Turtle (unidentified)",
-  "category": "Fuscia"
-}, {
-  "id": 9,
-  "name": "Dog, african wild",
-  "category": "Aquamarine"
-}, {
-  "id": 10,
-  "name": "Fairy penguin",
-  "category": "Maroon"
-}, {
-  "id": 11,
-  "name": "Ring-tailed gecko",
-  "category": "Turquoise"
-}, {
-  "id": 12,
-  "name": "Lesser masked weaver",
-  "category": "Maroon"
-}, {
-  "id": 13,
-  "name": "Tokay gecko",
-  "category": "Maroon"
-}, {
-  "id": 14,
-  "name": "Giant girdled lizard",
-  "category": "Purple"
-}, {
-  "id": 15,
-  "name": "Plover, three-banded",
-  "category": "Red"
-}, {
-  "id": 16,
-  "name": "Green-backed heron",
-  "category": "Aquamarine"
-}, {
-  "id": 17,
-  "name": "Downy woodpecker",
-  "category": "Teal"
-}, {
-  "id": 18,
-  "name": "Magpie, black-backed",
-  "category": "Purple"
-}, {
-  "id": 19,
-  "name": "Blackbird, red-winged",
-  "category": "Maroon"
-}, {
-  "id": 20,
-  "name": "Hawk, galapagos",
-  "category": "Pink"
-}],
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Swallow-tail gull",
+      "category": "Turquoise"
+    },
+    {
+      "id": 2,
+      "name": "Praying mantis (unidentified)",
+      "category": "Orange"
+    },
+    {
+      "id": 3,
+      "name": "Northern phalarope",
+      "category": "Puce"
+    },
+    {
+      "id": 4,
+      "name": "Small-toothed palm civet",
+      "category": "Red"
+    },
+    {
+      "id": 5,
+      "name": "Crested bunting",
+      "category": "Indigo"
+    },
+    {
+      "id": 6,
+      "name": "Gray langur",
+      "category": "Violet"
+    },
+    {
+      "id": 7,
+      "name": "Short-beaked echidna",
+      "category": "Crimson"
+    },
+    {
+      "id": 8,
+      "name": "Turtle (unidentified)",
+      "category": "Fuscia"
+    },
+    {
+      "id": 9,
+      "name": "Dog, african wild",
+      "category": "Aquamarine"
+    },
+    {
+      "id": 10,
+      "name": "Fairy penguin",
+      "category": "Maroon"
+    },
+    {
+      "id": 11,
+      "name": "Ring-tailed gecko",
+      "category": "Turquoise"
+    },
+    {
+      "id": 12,
+      "name": "Lesser masked weaver",
+      "category": "Maroon"
+    },
+    {
+      "id": 13,
+      "name": "Tokay gecko",
+      "category": "Maroon"
+    },
+    {
+      "id": 14,
+      "name": "Giant girdled lizard",
+      "category": "Purple"
+    },
+    {
+      "id": 15,
+      "name": "Plover, three-banded",
+      "category": "Red"
+    },
+    {
+      "id": 16,
+      "name": "Green-backed heron",
+      "category": "Aquamarine"
+    },
+    {
+      "id": 17,
+      "name": "Downy woodpecker",
+      "category": "Teal"
+    },
+    {
+      "id": 18,
+      "name": "Magpie, black-backed",
+      "category": "Purple"
+    },
+    {
+      "id": 19,
+      "name": "Blackbird, red-winged",
+      "category": "Maroon"
+    },
+    {
+      "id": 20,
+      "name": "Hawk, galapagos",
+      "category": "Pink"
+    }
+  ]
 }
